@@ -1,0 +1,10 @@
+    body {
+                background-color: pink;
+                color: aliceblue;
+                font-family: sans-serif;
+            }
+            h1 {
+                color: black;
+                background-color: aliceblue ;
+                padding: 30px;
+            }
